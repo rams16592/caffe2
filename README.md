@@ -10,7 +10,7 @@ Please participate in our survey (https://www.surveymonkey.com/r/caffe2). We wil
 
 ## License and Citation
 
-Caffe2 is released under the [BSD 2-Clause license](https://github.com/Yangqing/caffe2/blob/master/LICENSE).
+Caffe2 is released under the [Apache License 2.0](https://github.com/Yangqing/caffe2/blob/master/LICENSE).
 
 ### Build Status
 
